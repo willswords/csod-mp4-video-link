@@ -15,7 +15,7 @@ box under the video player with:
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Open [csod-video-mp4-link.user.js](https://raw.githubusercontent.com/willswords/csod-video-mp4-link/main/csod-video-mp4-link.user.js)
+2. Open [csod-mp4-video-link.user.js](https://raw.githubusercontent.com/willswords/csod-mp4-video-link/main/csod-mp4-video-link.user.js)
    and click Install.
 
 ## Notes
