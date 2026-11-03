@@ -1,7 +1,8 @@
 # Cornerstone Video MP4 Link
 
 A userscript that shows the direct MP4 and HLS links for the video on Cornerstone's Video Admin page
-(`https://burnsmcd.csod.com/LMS/Video/Admin/VideoAdminAdd.aspx?...`).
+(`https://<your-portal>/LMS/Video/Admin/VideoAdminAdd.aspx?...`). It matches that path on any domain,
+so it works for any `*.csod.com` portal or custom Cornerstone domain.
 
 Cornerstone renames uploaded videos, transcodes them, and serves them from its Akamai CDN, so the
 original filename never appears in a URL. The script reads the player config on the page and adds a

@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Cornerstone Video MP4 Link
-// @namespace    https://burnsmcd.csod.com/
-// @version      1.0
+// @namespace    https://github.com/willswords/csod-video-mp4-link
+// @version      1.1
 // @description  Shows the direct MP4 (and HLS) link for the video on Cornerstone's Video Admin page.
-// @match        https://burnsmcd.csod.com/LMS/Video/Admin/VideoAdminAdd.aspx*
+// @match        https://*/LMS/Video/Admin/VideoAdminAdd.aspx*
 // @homepageURL  https://github.com/willswords/csod-video-mp4-link
 // @updateURL    https://raw.githubusercontent.com/willswords/csod-video-mp4-link/main/csod-video-mp4-link.user.js
 // @downloadURL  https://raw.githubusercontent.com/willswords/csod-video-mp4-link/main/csod-video-mp4-link.user.js
