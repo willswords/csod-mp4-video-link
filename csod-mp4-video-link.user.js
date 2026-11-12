@@ -2,12 +2,15 @@
 // @name         Cornerstone Video MP4 Link
 // @namespace    https://github.com/willswords/csod-mp4-video-link
 // @version      1.1
+// @author       Will Findlay
 // @description  Shows the direct MP4 (and HLS) link for the video on Cornerstone's Video Admin page.
 // @match        https://*.csod.com/LMS/Video/Admin/VideoAdminAdd.aspx*
 // @homepageURL  https://github.com/willswords/csod-mp4-video-link
 // @updateURL    https://raw.githubusercontent.com/willswords/csod-mp4-video-link/main/csod-mp4-video-link.user.js
 // @downloadURL  https://raw.githubusercontent.com/willswords/csod-mp4-video-link/main/csod-mp4-video-link.user.js
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=csod.com
+// @license      MIT
 // @run-at       document-idle
 // ==/UserScript==
 
