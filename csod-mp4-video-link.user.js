@@ -2,7 +2,7 @@
 // @name         Cornerstone Video MP4 Link
 // @namespace    https://github.com/willswords/csod-mp4-video-link
 // @version      1.1
-// @author       Will Findlay
+// @author       Will Findlay <https://greasyfork.org/en/users/990849>
 // @description  Shows the direct MP4 (and HLS) link for the video on Cornerstone's Video Admin page.
 // @match        https://*.csod.com/LMS/Video/Admin/VideoAdminAdd.aspx*
 // @homepageURL  https://github.com/willswords/csod-mp4-video-link
